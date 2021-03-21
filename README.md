@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @obaydullah-ewu
+- 👋 Hi, I’m Md. Obaydullah
 - 👀 I’m interested in programming, web developer
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on ...
