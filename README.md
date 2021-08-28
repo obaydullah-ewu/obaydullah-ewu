@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Md. Obaydullah
-- 👀 I’m interested in programming, web application development, maching learning.
+- 👀 I’m interested in programming, web application development, machine learning.
 - 🌱 I’m working as a Software Developer at Parallaxlogic Infotech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
