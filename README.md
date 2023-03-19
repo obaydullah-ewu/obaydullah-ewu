@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Obaydullah
-- 👀 I’m interested in programming, web application development Laravel, machine learning.
-- 🌱 I’m working as a Software Engineer at Zanik Lab
+- 👀 I’m interested in programming, web application development Laravel, Vuejs, machine learning.
+- 🌱 I’m working as Assistant Manager of IT at Vision Eye Hospital
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can message me through this email- mdobaydullahornob@gmail.com
 
